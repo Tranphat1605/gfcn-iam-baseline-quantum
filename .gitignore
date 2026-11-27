@@ -1,0 +1,24 @@
+# Local environments, secrets, caches and data
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+*.log
+.idea/
+.vscode/
+**/img/
+**/Datasets/**/train/
+**/Datasets/**/valid/
+**/Datasets/**/test/
+*.h5
+*.hdf5
+*.tar
+*.tgz
+*.zip
+**/source/outputs/**/results/
+backups/
+imports/

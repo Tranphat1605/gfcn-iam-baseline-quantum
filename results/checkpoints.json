@@ -1,0 +1,22 @@
+[
+  {
+    "path": "baseline/source/outputs/GFCN_iam_lignes_64H_NKR_baseline/checkpoints/best_126.pt",
+    "bytes": 16604811,
+    "sha256": "f7b048fa28259e20af2de5a5162133b5021784c9099ea5210ea03dbed288c3b8"
+  },
+  {
+    "path": "baseline/source/outputs/GFCN_iam_lignes_64H_NKR_baseline/checkpoints/last_128.pt",
+    "bytes": 16604811,
+    "sha256": "40e37bfbc4163bd7651c83a4bb3a84b04e33872339e07c7da2dd856d803af4af"
+  },
+  {
+    "path": "quantum/source/outputs/QGFCN_iam_4q_filter_only/checkpoints/best_90.pt",
+    "bytes": 16621774,
+    "sha256": "90a5489c3de82d4eeef3254a037b83c47ae2b35f152dd7136706acab12067938"
+  },
+  {
+    "path": "quantum/source/outputs/QGFCN_iam_4q_filter_only/checkpoints/last_97.pt",
+    "bytes": 16621774,
+    "sha256": "07a2d2426b9e5b7bcf2461ba466785693a8343a01951a5bb04372d5dde4293b6"
+  }
+]

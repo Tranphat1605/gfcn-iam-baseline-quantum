@@ -1,0 +1,25 @@
+{
+  "evaluated_at": "2026-11-28T00:11:41.892730+07:00",
+  "validation_cer_percent": 5.84,
+  "test_cer_percent": 8.77,
+  "test_wer_percent": 31.12,
+  "exact_test_cer_percent": 8.767568445852628,
+  "exact_test_wer_percent": 31.115953174399724,
+  "counts": {
+    "lines": 2915,
+    "characters": 123090,
+    "character_errors": 10792,
+    "word_errors": 7283,
+    "words": 23406,
+    "batches": 1458
+  },
+  "batch_size": 2,
+  "decoding": "upstream greedy CTC, no language model",
+  "checkpoint_sha256": "f7b048fa28259e20af2de5a5162133b5021784c9099ea5210ea03dbed288c3b8",
+  "checkpoint_unchanged_after_test": true,
+  "model": "baseline",
+  "training_epochs_completed": 129,
+  "selected_checkpoint": "best_126.pt",
+  "selected_checkpoint_epoch": 127,
+  "selected_by": "lowest validation CER"
+}

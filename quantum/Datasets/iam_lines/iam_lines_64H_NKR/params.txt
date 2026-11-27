@@ -1,0 +1,8 @@
+root_path: ../Datasets/iam_lines
+img_folders: {'train': 'train', 'valid': 'valid', 'test': 'test'}
+label_files: {'train': 'train.txt', 'valid': 'valid.txt', 'test': 'test.txt'}
+label_path_dirs: {'train': '', 'valid': '', 'test': ''}
+std: [45.11669329]
+mean: [237.38623298]
+labels: [' ', '!', '"', '#', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ':', ';', '?', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+nb_char: {'train': 276265, 'valid': 41189, 'test': 123090}
